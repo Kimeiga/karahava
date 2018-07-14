@@ -1,0 +1,6110 @@
+{
+	"textures": [
+		{
+			"image": "ibuki_3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1017,
+				"h": 1952
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dash_f_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 2,
+						"w": 157,
+						"h": 108
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 157,
+						"h": 108
+					}
+				},
+				{
+					"filename": "dash_b_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 11,
+						"w": 126,
+						"h": 129
+					},
+					"frame": {
+						"x": 1,
+						"y": 111,
+						"w": 126,
+						"h": 129
+					}
+				},
+				{
+					"filename": "dash_f_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 1,
+						"w": 146,
+						"h": 109
+					},
+					"frame": {
+						"x": 160,
+						"y": 1,
+						"w": 146,
+						"h": 109
+					}
+				},
+				{
+					"filename": "dash_f_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 0,
+						"w": 138,
+						"h": 110
+					},
+					"frame": {
+						"x": 308,
+						"y": 1,
+						"w": 138,
+						"h": 110
+					}
+				},
+				{
+					"filename": "jump_f_30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 6,
+						"w": 63,
+						"h": 182
+					},
+					"frame": {
+						"x": 1,
+						"y": 242,
+						"w": 63,
+						"h": 182
+					}
+				},
+				{
+					"filename": "jump_f_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 0,
+						"w": 63,
+						"h": 181
+					},
+					"frame": {
+						"x": 1,
+						"y": 426,
+						"w": 63,
+						"h": 181
+					}
+				},
+				{
+					"filename": "jump_f_31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 17,
+						"w": 63,
+						"h": 179
+					},
+					"frame": {
+						"x": 1,
+						"y": 609,
+						"w": 63,
+						"h": 179
+					}
+				},
+				{
+					"filename": "dash_f_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 1,
+						"w": 129,
+						"h": 109
+					},
+					"frame": {
+						"x": 448,
+						"y": 1,
+						"w": 129,
+						"h": 109
+					}
+				},
+				{
+					"filename": "jump_b_30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 2,
+						"w": 65,
+						"h": 175
+					},
+					"frame": {
+						"x": 1,
+						"y": 790,
+						"w": 65,
+						"h": 175
+					}
+				},
+				{
+					"filename": "jump_b_31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 8,
+						"w": 65,
+						"h": 175
+					},
+					"frame": {
+						"x": 1,
+						"y": 790,
+						"w": 65,
+						"h": 175
+					}
+				},
+				{
+					"filename": "jump_b_32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 15,
+						"w": 65,
+						"h": 175
+					},
+					"frame": {
+						"x": 1,
+						"y": 790,
+						"w": 65,
+						"h": 175
+					}
+				},
+				{
+					"filename": "dash_f_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 2,
+						"w": 128,
+						"h": 108
+					},
+					"frame": {
+						"x": 579,
+						"y": 1,
+						"w": 128,
+						"h": 108
+					}
+				},
+				{
+					"filename": "jump_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 6,
+						"w": 55,
+						"h": 180
+					},
+					"frame": {
+						"x": 66,
+						"y": 242,
+						"w": 55,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 9,
+						"w": 55,
+						"h": 180
+					},
+					"frame": {
+						"x": 66,
+						"y": 242,
+						"w": 55,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_b_36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 46,
+						"w": 55,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 967,
+						"w": 55,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_b_33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 20,
+						"w": 51,
+						"h": 181
+					},
+					"frame": {
+						"x": 66,
+						"y": 424,
+						"w": 51,
+						"h": 181
+					}
+				},
+				{
+					"filename": "jump_b_34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 28,
+						"w": 51,
+						"h": 181
+					},
+					"frame": {
+						"x": 66,
+						"y": 424,
+						"w": 51,
+						"h": 181
+					}
+				},
+				{
+					"filename": "jump_b_35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 36,
+						"w": 51,
+						"h": 181
+					},
+					"frame": {
+						"x": 66,
+						"y": 424,
+						"w": 51,
+						"h": 181
+					}
+				},
+				{
+					"filename": "dash_f_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 129,
+						"h": 101
+					},
+					"frame": {
+						"x": 709,
+						"y": 1,
+						"w": 129,
+						"h": 101
+					}
+				},
+				{
+					"filename": "jump_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 3,
+						"w": 51,
+						"h": 179
+					},
+					"frame": {
+						"x": 1,
+						"y": 1149,
+						"w": 51,
+						"h": 179
+					}
+				},
+				{
+					"filename": "dash_f_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 129,
+						"h": 99
+					},
+					"frame": {
+						"x": 840,
+						"y": 1,
+						"w": 129,
+						"h": 99
+					}
+				},
+				{
+					"filename": "jump_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 13,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 971,
+						"y": 1,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 18,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 971,
+						"y": 1,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_f_32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 33,
+						"w": 59,
+						"h": 175
+					},
+					"frame": {
+						"x": 66,
+						"y": 607,
+						"w": 59,
+						"h": 175
+					}
+				},
+				{
+					"filename": "jump_f_33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 190,
+						"y": 42,
+						"w": 59,
+						"h": 175
+					},
+					"frame": {
+						"x": 66,
+						"y": 607,
+						"w": 59,
+						"h": 175
+					}
+				},
+				{
+					"filename": "jump_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 53,
+						"h": 174
+					},
+					"frame": {
+						"x": 1,
+						"y": 1330,
+						"w": 53,
+						"h": 174
+					}
+				},
+				{
+					"filename": "jump_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 23,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1506,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 29,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1506,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 35,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1688,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 42,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1688,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "crouch_start_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 101,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 1870,
+						"w": 101,
+						"h": 81
+					}
+				},
+				{
+					"filename": "jump_30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 49,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 68,
+						"y": 784,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 57,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 68,
+						"y": 784,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "dash_b_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 20,
+						"w": 120,
+						"h": 120
+					},
+					"frame": {
+						"x": 129,
+						"y": 112,
+						"w": 120,
+						"h": 120
+					}
+				},
+				{
+					"filename": "jump_32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 66,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 115,
+						"y": 784,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "jump_33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 75,
+						"w": 45,
+						"h": 180
+					},
+					"frame": {
+						"x": 115,
+						"y": 784,
+						"w": 45,
+						"h": 180
+					}
+				},
+				{
+					"filename": "dash_f_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 6,
+						"w": 126,
+						"h": 104
+					},
+					"frame": {
+						"x": 251,
+						"y": 113,
+						"w": 126,
+						"h": 104
+					}
+				},
+				{
+					"filename": "dash_b_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 27,
+						"w": 106,
+						"h": 113
+					},
+					"frame": {
+						"x": 379,
+						"y": 113,
+						"w": 106,
+						"h": 113
+					}
+				},
+				{
+					"filename": "jump_f_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 89,
+						"w": 91,
+						"h": 123
+					},
+					"frame": {
+						"x": 487,
+						"y": 112,
+						"w": 91,
+						"h": 123
+					}
+				},
+				{
+					"filename": "jump_f_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 80,
+						"w": 91,
+						"h": 123
+					},
+					"frame": {
+						"x": 487,
+						"y": 112,
+						"w": 91,
+						"h": 123
+					}
+				},
+				{
+					"filename": "dash_f_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 7,
+						"w": 126,
+						"h": 103
+					},
+					"frame": {
+						"x": 580,
+						"y": 111,
+						"w": 126,
+						"h": 103
+					}
+				},
+				{
+					"filename": "jump_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 4,
+						"w": 61,
+						"h": 159
+					},
+					"frame": {
+						"x": 58,
+						"y": 967,
+						"w": 61,
+						"h": 159
+					}
+				},
+				{
+					"filename": "jump_b_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 4,
+						"w": 66,
+						"h": 159
+					},
+					"frame": {
+						"x": 121,
+						"y": 966,
+						"w": 66,
+						"h": 159
+					}
+				},
+				{
+					"filename": "jump_b_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 0,
+						"w": 66,
+						"h": 158
+					},
+					"frame": {
+						"x": 48,
+						"y": 1506,
+						"w": 66,
+						"h": 158
+					}
+				},
+				{
+					"filename": "jump_f_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 34,
+						"w": 83,
+						"h": 127
+					},
+					"frame": {
+						"x": 48,
+						"y": 1666,
+						"w": 83,
+						"h": 127
+					}
+				},
+				{
+					"filename": "jump_f_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 172,
+						"y": 40,
+						"w": 83,
+						"h": 127
+					},
+					"frame": {
+						"x": 48,
+						"y": 1666,
+						"w": 83,
+						"h": 127
+					}
+				},
+				{
+					"filename": "jump_f_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 42,
+						"w": 91,
+						"h": 73
+					},
+					"frame": {
+						"x": 48,
+						"y": 1795,
+						"w": 91,
+						"h": 73
+					}
+				},
+				{
+					"filename": "dash_b_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 10,
+						"w": 69,
+						"h": 81
+					},
+					"frame": {
+						"x": 104,
+						"y": 1870,
+						"w": 69,
+						"h": 81
+					}
+				},
+				{
+					"filename": "dash_f_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 1,
+						"w": 128,
+						"h": 95
+					},
+					"frame": {
+						"x": 580,
+						"y": 216,
+						"w": 128,
+						"h": 95
+					}
+				},
+				{
+					"filename": "jump_b_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 42,
+						"w": 123,
+						"h": 54
+					},
+					"frame": {
+						"x": 251,
+						"y": 219,
+						"w": 123,
+						"h": 54
+					}
+				},
+				{
+					"filename": "jump_f_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 42,
+						"w": 120,
+						"h": 54
+					},
+					"frame": {
+						"x": 129,
+						"y": 234,
+						"w": 120,
+						"h": 54
+					}
+				},
+				{
+					"filename": "dash_f_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 0,
+						"w": 111,
+						"h": 105
+					},
+					"frame": {
+						"x": 123,
+						"y": 290,
+						"w": 111,
+						"h": 105
+					}
+				},
+				{
+					"filename": "dash_f_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 2,
+						"w": 111,
+						"h": 105
+					},
+					"frame": {
+						"x": 123,
+						"y": 290,
+						"w": 111,
+						"h": 105
+					}
+				},
+				{
+					"filename": "dash_f_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 4,
+						"w": 111,
+						"h": 105
+					},
+					"frame": {
+						"x": 123,
+						"y": 290,
+						"w": 111,
+						"h": 105
+					}
+				},
+				{
+					"filename": "jump_b_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 58,
+						"w": 108,
+						"h": 69
+					},
+					"frame": {
+						"x": 376,
+						"y": 228,
+						"w": 108,
+						"h": 69
+					}
+				},
+				{
+					"filename": "idle_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 92,
+						"h": 98
+					},
+					"frame": {
+						"x": 486,
+						"y": 237,
+						"w": 92,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 92,
+						"h": 98
+					},
+					"frame": {
+						"x": 486,
+						"y": 237,
+						"w": 92,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_b_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 44,
+						"w": 140,
+						"h": 45
+					},
+					"frame": {
+						"x": 580,
+						"y": 313,
+						"w": 140,
+						"h": 45
+					}
+				},
+				{
+					"filename": "dash_f_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 0,
+						"w": 111,
+						"h": 104
+					},
+					"frame": {
+						"x": 123,
+						"y": 397,
+						"w": 111,
+						"h": 104
+					}
+				},
+				{
+					"filename": "jump_f_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 55,
+						"w": 111,
+						"h": 94
+					},
+					"frame": {
+						"x": 119,
+						"y": 503,
+						"w": 111,
+						"h": 94
+					}
+				},
+				{
+					"filename": "dash_f_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 6,
+						"w": 99,
+						"h": 104
+					},
+					"frame": {
+						"x": 127,
+						"y": 599,
+						"w": 99,
+						"h": 104
+					}
+				},
+				{
+					"filename": "jump_b_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 47,
+						"w": 119,
+						"h": 76
+					},
+					"frame": {
+						"x": 127,
+						"y": 705,
+						"w": 119,
+						"h": 76
+					}
+				},
+				{
+					"filename": "jump_b_37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 105,
+						"w": 78,
+						"h": 121
+					},
+					"frame": {
+						"x": 162,
+						"y": 783,
+						"w": 78,
+						"h": 121
+					}
+				},
+				{
+					"filename": "jump_f_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 60,
+						"w": 114,
+						"h": 58
+					},
+					"frame": {
+						"x": 162,
+						"y": 906,
+						"w": 114,
+						"h": 58
+					}
+				},
+				{
+					"filename": "jump_34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 137,
+						"w": 78,
+						"h": 120
+					},
+					"frame": {
+						"x": 189,
+						"y": 966,
+						"w": 78,
+						"h": 120
+					}
+				},
+				{
+					"filename": "jump_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 127,
+						"w": 57,
+						"h": 124
+					},
+					"frame": {
+						"x": 236,
+						"y": 290,
+						"w": 57,
+						"h": 124
+					}
+				},
+				{
+					"filename": "jump_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 118,
+						"w": 57,
+						"h": 124
+					},
+					"frame": {
+						"x": 236,
+						"y": 290,
+						"w": 57,
+						"h": 124
+					}
+				},
+				{
+					"filename": "jump_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 109,
+						"w": 57,
+						"h": 124
+					},
+					"frame": {
+						"x": 236,
+						"y": 290,
+						"w": 57,
+						"h": 124
+					}
+				},
+				{
+					"filename": "walk_f_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 79,
+						"h": 100
+					},
+					"frame": {
+						"x": 295,
+						"y": 275,
+						"w": 79,
+						"h": 100
+					}
+				},
+				{
+					"filename": "crouch_start_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 22,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 376,
+						"y": 299,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "dash_b_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 35,
+						"w": 93,
+						"h": 104
+					},
+					"frame": {
+						"x": 485,
+						"y": 337,
+						"w": 93,
+						"h": 104
+					}
+				},
+				{
+					"filename": "jump_f_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 46,
+						"w": 112,
+						"h": 80
+					},
+					"frame": {
+						"x": 580,
+						"y": 360,
+						"w": 112,
+						"h": 80
+					}
+				},
+				{
+					"filename": "jump_b_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 48,
+						"w": 107,
+						"h": 63
+					},
+					"frame": {
+						"x": 376,
+						"y": 376,
+						"w": 107,
+						"h": 63
+					}
+				},
+				{
+					"filename": "jump_b_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 46,
+						"w": 107,
+						"h": 63
+					},
+					"frame": {
+						"x": 376,
+						"y": 376,
+						"w": 107,
+						"h": 63
+					}
+				},
+				{
+					"filename": "jump_b_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 47,
+						"w": 79,
+						"h": 83
+					},
+					"frame": {
+						"x": 295,
+						"y": 377,
+						"w": 79,
+						"h": 83
+					}
+				},
+				{
+					"filename": "jump_b_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 42,
+						"w": 158,
+						"h": 47
+					},
+					"frame": {
+						"x": 709,
+						"y": 104,
+						"w": 158,
+						"h": 47
+					}
+				},
+				{
+					"filename": "jump_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 58,
+						"w": 100,
+						"h": 86
+					},
+					"frame": {
+						"x": 869,
+						"y": 102,
+						"w": 100,
+						"h": 86
+					}
+				},
+				{
+					"filename": "jump_b_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 41,
+						"w": 133,
+						"h": 52
+					},
+					"frame": {
+						"x": 708,
+						"y": 153,
+						"w": 133,
+						"h": 52
+					}
+				},
+				{
+					"filename": "jump_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 51,
+						"w": 105,
+						"h": 98
+					},
+					"frame": {
+						"x": 710,
+						"y": 207,
+						"w": 105,
+						"h": 98
+					}
+				},
+				{
+					"filename": "crouch_start_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 103,
+						"h": 95
+					},
+					"frame": {
+						"x": 722,
+						"y": 307,
+						"w": 103,
+						"h": 95
+					}
+				},
+				{
+					"filename": "jump_f_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 44,
+						"w": 139,
+						"h": 45
+					},
+					"frame": {
+						"x": 694,
+						"y": 404,
+						"w": 139,
+						"h": 45
+					}
+				},
+				{
+					"filename": "dash_b_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 30,
+						"w": 76,
+						"h": 98
+					},
+					"frame": {
+						"x": 817,
+						"y": 207,
+						"w": 76,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_b_38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 111,
+						"w": 78,
+						"h": 115
+					},
+					"frame": {
+						"x": 895,
+						"y": 190,
+						"w": 78,
+						"h": 115
+					}
+				},
+				{
+					"filename": "dash_f_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 19,
+						"w": 97,
+						"h": 91
+					},
+					"frame": {
+						"x": 827,
+						"y": 307,
+						"w": 97,
+						"h": 91
+					}
+				},
+				{
+					"filename": "dash_f_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 156,
+						"y": 9,
+						"w": 90,
+						"h": 101
+					},
+					"frame": {
+						"x": 926,
+						"y": 307,
+						"w": 90,
+						"h": 101
+					}
+				},
+				{
+					"filename": "dash_b_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 51,
+						"w": 89,
+						"h": 89
+					},
+					"frame": {
+						"x": 835,
+						"y": 400,
+						"w": 89,
+						"h": 89
+					}
+				},
+				{
+					"filename": "idle_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 926,
+						"y": 410,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 926,
+						"y": 410,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_f_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 49,
+						"w": 107,
+						"h": 63
+					},
+					"frame": {
+						"x": 376,
+						"y": 441,
+						"w": 107,
+						"h": 63
+					}
+				},
+				{
+					"filename": "jump_f_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 45,
+						"w": 107,
+						"h": 63
+					},
+					"frame": {
+						"x": 376,
+						"y": 441,
+						"w": 107,
+						"h": 63
+					}
+				},
+				{
+					"filename": "crouch_start_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 10,
+						"w": 98,
+						"h": 87
+					},
+					"frame": {
+						"x": 485,
+						"y": 443,
+						"w": 98,
+						"h": 87
+					}
+				},
+				{
+					"filename": "jump_b_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 54,
+						"w": 102,
+						"h": 85
+					},
+					"frame": {
+						"x": 585,
+						"y": 442,
+						"w": 102,
+						"h": 85
+					}
+				},
+				{
+					"filename": "jump_b_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 38,
+						"w": 119,
+						"h": 60
+					},
+					"frame": {
+						"x": 689,
+						"y": 451,
+						"w": 119,
+						"h": 60
+					}
+				},
+				{
+					"filename": "jump_f_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 37,
+						"w": 115,
+						"h": 57
+					},
+					"frame": {
+						"x": 689,
+						"y": 513,
+						"w": 115,
+						"h": 57
+					}
+				},
+				{
+					"filename": "jump_f_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 34,
+						"w": 102,
+						"h": 74
+					},
+					"frame": {
+						"x": 585,
+						"y": 529,
+						"w": 102,
+						"h": 74
+					}
+				},
+				{
+					"filename": "jump_f_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 60,
+						"w": 110,
+						"h": 68
+					},
+					"frame": {
+						"x": 689,
+						"y": 572,
+						"w": 110,
+						"h": 68
+					}
+				},
+				{
+					"filename": "jump_b_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 96,
+						"w": 62,
+						"h": 124
+					},
+					"frame": {
+						"x": 269,
+						"y": 966,
+						"w": 62,
+						"h": 124
+					}
+				},
+				{
+					"filename": "jump_b_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 173,
+						"y": 87,
+						"w": 62,
+						"h": 124
+					},
+					"frame": {
+						"x": 269,
+						"y": 966,
+						"w": 62,
+						"h": 124
+					}
+				},
+				{
+					"filename": "jump_b_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 168,
+						"y": 80,
+						"w": 62,
+						"h": 124
+					},
+					"frame": {
+						"x": 269,
+						"y": 966,
+						"w": 62,
+						"h": 124
+					}
+				},
+				{
+					"filename": "jump_b_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 164,
+						"y": 72,
+						"w": 62,
+						"h": 124
+					},
+					"frame": {
+						"x": 269,
+						"y": 966,
+						"w": 62,
+						"h": 124
+					}
+				},
+				{
+					"filename": "crouch_start_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 31,
+						"w": 96,
+						"h": 66
+					},
+					"frame": {
+						"x": 278,
+						"y": 462,
+						"w": 96,
+						"h": 66
+					}
+				},
+				{
+					"filename": "crouch_start_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 106,
+						"h": 70
+					},
+					"frame": {
+						"x": 376,
+						"y": 506,
+						"w": 106,
+						"h": 70
+					}
+				},
+				{
+					"filename": "dash_f_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 21,
+						"w": 96,
+						"h": 89
+					},
+					"frame": {
+						"x": 278,
+						"y": 530,
+						"w": 96,
+						"h": 89
+					}
+				},
+				{
+					"filename": "crouch_start_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 30,
+						"w": 106,
+						"h": 67
+					},
+					"frame": {
+						"x": 376,
+						"y": 578,
+						"w": 106,
+						"h": 67
+					}
+				},
+				{
+					"filename": "dash_f_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 12,
+						"w": 97,
+						"h": 98
+					},
+					"frame": {
+						"x": 484,
+						"y": 532,
+						"w": 97,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_b_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 58,
+						"w": 105,
+						"h": 74
+					},
+					"frame": {
+						"x": 228,
+						"y": 621,
+						"w": 105,
+						"h": 74
+					}
+				},
+				{
+					"filename": "crouch_end_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 13,
+						"w": 86,
+						"h": 87
+					},
+					"frame": {
+						"x": 248,
+						"y": 697,
+						"w": 86,
+						"h": 87
+					}
+				},
+				{
+					"filename": "jump_f_34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 108,
+						"w": 78,
+						"h": 115
+					},
+					"frame": {
+						"x": 242,
+						"y": 786,
+						"w": 78,
+						"h": 115
+					}
+				},
+				{
+					"filename": "jump_b_40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 165,
+						"w": 81,
+						"h": 61
+					},
+					"frame": {
+						"x": 278,
+						"y": 903,
+						"w": 81,
+						"h": 61
+					}
+				},
+				{
+					"filename": "jump_f_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 71,
+						"w": 78,
+						"h": 114
+					},
+					"frame": {
+						"x": 333,
+						"y": 966,
+						"w": 78,
+						"h": 114
+					}
+				},
+				{
+					"filename": "jump_f_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 63,
+						"w": 78,
+						"h": 114
+					},
+					"frame": {
+						"x": 333,
+						"y": 966,
+						"w": 78,
+						"h": 114
+					}
+				},
+				{
+					"filename": "crouch_start_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 31,
+						"w": 101,
+						"h": 66
+					},
+					"frame": {
+						"x": 583,
+						"y": 605,
+						"w": 101,
+						"h": 66
+					}
+				},
+				{
+					"filename": "dash_f_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 21,
+						"w": 97,
+						"h": 89
+					},
+					"frame": {
+						"x": 484,
+						"y": 632,
+						"w": 97,
+						"h": 89
+					}
+				},
+				{
+					"filename": "jump_b_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 35,
+						"w": 101,
+						"h": 74
+					},
+					"frame": {
+						"x": 583,
+						"y": 673,
+						"w": 101,
+						"h": 74
+					}
+				},
+				{
+					"filename": "walk_f_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 95,
+						"h": 96
+					},
+					"frame": {
+						"x": 686,
+						"y": 642,
+						"w": 95,
+						"h": 96
+					}
+				},
+				{
+					"filename": "walk_f_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 2,
+						"w": 69,
+						"h": 99
+					},
+					"frame": {
+						"x": 413,
+						"y": 647,
+						"w": 69,
+						"h": 99
+					}
+				},
+				{
+					"filename": "walk_f_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 75,
+						"h": 101
+					},
+					"frame": {
+						"x": 336,
+						"y": 647,
+						"w": 75,
+						"h": 101
+					}
+				},
+				{
+					"filename": "jump_b_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 148,
+						"w": 97,
+						"h": 78
+					},
+					"frame": {
+						"x": 484,
+						"y": 723,
+						"w": 97,
+						"h": 78
+					}
+				},
+				{
+					"filename": "jump_b_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 36,
+						"w": 100,
+						"h": 75
+					},
+					"frame": {
+						"x": 583,
+						"y": 749,
+						"w": 100,
+						"h": 75
+					}
+				},
+				{
+					"filename": "dash_b_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 42,
+						"w": 83,
+						"h": 98
+					},
+					"frame": {
+						"x": 322,
+						"y": 803,
+						"w": 83,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 159,
+						"w": 83,
+						"h": 98
+					},
+					"frame": {
+						"x": 322,
+						"y": 803,
+						"w": 83,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_b_47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 128,
+						"w": 83,
+						"h": 98
+					},
+					"frame": {
+						"x": 322,
+						"y": 803,
+						"w": 83,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_f_42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 125,
+						"w": 83,
+						"h": 98
+					},
+					"frame": {
+						"x": 322,
+						"y": 803,
+						"w": 83,
+						"h": 98
+					}
+				},
+				{
+					"filename": "walk_f_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 1,
+						"w": 69,
+						"h": 100
+					},
+					"frame": {
+						"x": 413,
+						"y": 748,
+						"w": 69,
+						"h": 100
+					}
+				},
+				{
+					"filename": "jump_f_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 145,
+						"w": 97,
+						"h": 78
+					},
+					"frame": {
+						"x": 484,
+						"y": 803,
+						"w": 97,
+						"h": 78
+					}
+				},
+				{
+					"filename": "crouch_start_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 31,
+						"w": 98,
+						"h": 66
+					},
+					"frame": {
+						"x": 583,
+						"y": 826,
+						"w": 98,
+						"h": 66
+					}
+				},
+				{
+					"filename": "jump_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 93,
+						"w": 74,
+						"h": 67
+					},
+					"frame": {
+						"x": 407,
+						"y": 850,
+						"w": 74,
+						"h": 67
+					}
+				},
+				{
+					"filename": "jump_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 88,
+						"w": 74,
+						"h": 67
+					},
+					"frame": {
+						"x": 407,
+						"y": 850,
+						"w": 74,
+						"h": 67
+					}
+				},
+				{
+					"filename": "jump_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 179,
+						"w": 98,
+						"h": 78
+					},
+					"frame": {
+						"x": 483,
+						"y": 883,
+						"w": 98,
+						"h": 78
+					}
+				},
+				{
+					"filename": "jump_f_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 36,
+						"w": 96,
+						"h": 74
+					},
+					"frame": {
+						"x": 583,
+						"y": 894,
+						"w": 96,
+						"h": 74
+					}
+				},
+				{
+					"filename": "jump_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 82,
+						"w": 78,
+						"h": 67
+					},
+					"frame": {
+						"x": 189,
+						"y": 1088,
+						"w": 78,
+						"h": 67
+					}
+				},
+				{
+					"filename": "jump_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 79,
+						"w": 78,
+						"h": 67
+					},
+					"frame": {
+						"x": 189,
+						"y": 1088,
+						"w": 78,
+						"h": 67
+					}
+				},
+				{
+					"filename": "jump_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 76,
+						"w": 78,
+						"h": 67
+					},
+					"frame": {
+						"x": 189,
+						"y": 1088,
+						"w": 78,
+						"h": 67
+					}
+				},
+				{
+					"filename": "crouch_end_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 34,
+						"w": 83,
+						"h": 66
+					},
+					"frame": {
+						"x": 269,
+						"y": 1092,
+						"w": 83,
+						"h": 66
+					}
+				},
+				{
+					"filename": "crouch_end_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 83,
+						"h": 100
+					},
+					"frame": {
+						"x": 354,
+						"y": 1082,
+						"w": 83,
+						"h": 100
+					}
+				},
+				{
+					"filename": "jump_35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 147,
+						"w": 81,
+						"h": 110
+					},
+					"frame": {
+						"x": 413,
+						"y": 970,
+						"w": 81,
+						"h": 110
+					}
+				},
+				{
+					"filename": "dash_f_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 162,
+						"y": 10,
+						"w": 85,
+						"h": 100
+					},
+					"frame": {
+						"x": 496,
+						"y": 963,
+						"w": 85,
+						"h": 100
+					}
+				},
+				{
+					"filename": "dash_f_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 17,
+						"w": 94,
+						"h": 93
+					},
+					"frame": {
+						"x": 583,
+						"y": 970,
+						"w": 94,
+						"h": 93
+					}
+				},
+				{
+					"filename": "crouch_end_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 84,
+						"h": 100
+					},
+					"frame": {
+						"x": 439,
+						"y": 1082,
+						"w": 84,
+						"h": 100
+					}
+				},
+				{
+					"filename": "jump_f_35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 184,
+						"y": 113,
+						"w": 81,
+						"h": 110
+					},
+					"frame": {
+						"x": 525,
+						"y": 1065,
+						"w": 81,
+						"h": 110
+					}
+				},
+				{
+					"filename": "jump_f_36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 116,
+						"w": 78,
+						"h": 107
+					},
+					"frame": {
+						"x": 608,
+						"y": 1065,
+						"w": 78,
+						"h": 107
+					}
+				},
+				{
+					"filename": "crouch_end_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 91,
+						"h": 99
+					},
+					"frame": {
+						"x": 783,
+						"y": 642,
+						"w": 91,
+						"h": 99
+					}
+				},
+				{
+					"filename": "crouch_start_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 31,
+						"w": 95,
+						"h": 66
+					},
+					"frame": {
+						"x": 686,
+						"y": 740,
+						"w": 95,
+						"h": 66
+					}
+				},
+				{
+					"filename": "dash_f_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 17,
+						"w": 93,
+						"h": 93
+					},
+					"frame": {
+						"x": 783,
+						"y": 743,
+						"w": 93,
+						"h": 93
+					}
+				},
+				{
+					"filename": "walk_f_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 93,
+						"h": 96
+					},
+					"frame": {
+						"x": 688,
+						"y": 808,
+						"w": 93,
+						"h": 96
+					}
+				},
+				{
+					"filename": "dash_f_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 14,
+						"w": 94,
+						"h": 96
+					},
+					"frame": {
+						"x": 783,
+						"y": 838,
+						"w": 94,
+						"h": 96
+					}
+				},
+				{
+					"filename": "jump_b_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 41,
+						"w": 95,
+						"h": 86
+					},
+					"frame": {
+						"x": 681,
+						"y": 906,
+						"w": 95,
+						"h": 86
+					}
+				},
+				{
+					"filename": "dash_b_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 75,
+						"w": 89,
+						"h": 65
+					},
+					"frame": {
+						"x": 679,
+						"y": 994,
+						"w": 89,
+						"h": 65
+					}
+				},
+				{
+					"filename": "dash_b_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 82,
+						"h": 101
+					},
+					"frame": {
+						"x": 688,
+						"y": 1061,
+						"w": 82,
+						"h": 101
+					}
+				},
+				{
+					"filename": "idle_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 91,
+						"h": 98
+					},
+					"frame": {
+						"x": 778,
+						"y": 936,
+						"w": 91,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 91,
+						"h": 98
+					},
+					"frame": {
+						"x": 778,
+						"y": 936,
+						"w": 91,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 772,
+						"y": 1036,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 772,
+						"y": 1036,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 90,
+						"h": 97
+					},
+					"frame": {
+						"x": 772,
+						"y": 1136,
+						"w": 90,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 90,
+						"h": 97
+					},
+					"frame": {
+						"x": 772,
+						"y": 1136,
+						"w": 90,
+						"h": 97
+					}
+				},
+				{
+					"filename": "crouch_start_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 82,
+						"h": 97
+					},
+					"frame": {
+						"x": 688,
+						"y": 1164,
+						"w": 82,
+						"h": 97
+					}
+				},
+				{
+					"filename": "jump_36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 163,
+						"w": 78,
+						"h": 94
+					},
+					"frame": {
+						"x": 608,
+						"y": 1174,
+						"w": 78,
+						"h": 94
+					}
+				},
+				{
+					"filename": "jump_b_39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 137,
+						"w": 81,
+						"h": 89
+					},
+					"frame": {
+						"x": 525,
+						"y": 1177,
+						"w": 81,
+						"h": 89
+					}
+				},
+				{
+					"filename": "idle_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 772,
+						"y": 1235,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 772,
+						"y": 1235,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_f_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 48,
+						"w": 82,
+						"h": 83
+					},
+					"frame": {
+						"x": 688,
+						"y": 1263,
+						"w": 82,
+						"h": 83
+					}
+				},
+				{
+					"filename": "dash_b_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 39,
+						"w": 84,
+						"h": 101
+					},
+					"frame": {
+						"x": 864,
+						"y": 1036,
+						"w": 84,
+						"h": 101
+					}
+				},
+				{
+					"filename": "walk_f_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 101
+					},
+					"frame": {
+						"x": 864,
+						"y": 1139,
+						"w": 87,
+						"h": 101
+					}
+				},
+				{
+					"filename": "idle_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 89,
+						"h": 98
+					},
+					"frame": {
+						"x": 871,
+						"y": 936,
+						"w": 89,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 89,
+						"h": 98
+					},
+					"frame": {
+						"x": 871,
+						"y": 936,
+						"w": 89,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 88,
+						"h": 97
+					},
+					"frame": {
+						"x": 864,
+						"y": 1242,
+						"w": 88,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 88,
+						"h": 97
+					},
+					"frame": {
+						"x": 864,
+						"y": 1242,
+						"w": 88,
+						"h": 97
+					}
+				},
+				{
+					"filename": "jump_f_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 59,
+						"w": 64,
+						"h": 98
+					},
+					"frame": {
+						"x": 950,
+						"y": 1036,
+						"w": 64,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_f_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 53,
+						"w": 64,
+						"h": 98
+					},
+					"frame": {
+						"x": 950,
+						"y": 1036,
+						"w": 64,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 103,
+						"w": 62,
+						"h": 97
+					},
+					"frame": {
+						"x": 954,
+						"y": 1136,
+						"w": 62,
+						"h": 97
+					}
+				},
+				{
+					"filename": "jump_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 96,
+						"w": 62,
+						"h": 97
+					},
+					"frame": {
+						"x": 954,
+						"y": 1136,
+						"w": 62,
+						"h": 97
+					}
+				},
+				{
+					"filename": "dash_b_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 2,
+						"w": 62,
+						"h": 77
+					},
+					"frame": {
+						"x": 954,
+						"y": 1235,
+						"w": 62,
+						"h": 77
+					}
+				},
+				{
+					"filename": "idle_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 772,
+						"y": 1335,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 772,
+						"y": 1335,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 88,
+						"h": 97
+					},
+					"frame": {
+						"x": 864,
+						"y": 1341,
+						"w": 88,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 88,
+						"h": 97
+					},
+					"frame": {
+						"x": 864,
+						"y": 1341,
+						"w": 88,
+						"h": 97
+					}
+				},
+				{
+					"filename": "jump_b_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 158,
+						"y": 67,
+						"w": 60,
+						"h": 97
+					},
+					"frame": {
+						"x": 954,
+						"y": 1314,
+						"w": 60,
+						"h": 97
+					}
+				},
+				{
+					"filename": "jump_b_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 61,
+						"w": 60,
+						"h": 97
+					},
+					"frame": {
+						"x": 954,
+						"y": 1314,
+						"w": 60,
+						"h": 97
+					}
+				},
+				{
+					"filename": "jump_b_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 55,
+						"w": 60,
+						"h": 97
+					},
+					"frame": {
+						"x": 954,
+						"y": 1314,
+						"w": 60,
+						"h": 97
+					}
+				},
+				{
+					"filename": "crouching_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 84,
+						"h": 64
+					},
+					"frame": {
+						"x": 56,
+						"y": 1440,
+						"w": 84,
+						"h": 64
+					}
+				},
+				{
+					"filename": "dash_b_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 16,
+						"w": 71,
+						"h": 90
+					},
+					"frame": {
+						"x": 56,
+						"y": 1348,
+						"w": 71,
+						"h": 90
+					}
+				},
+				{
+					"filename": "walk_f_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 71,
+						"h": 101
+					},
+					"frame": {
+						"x": 116,
+						"y": 1506,
+						"w": 71,
+						"h": 101
+					}
+				},
+				{
+					"filename": "jump_f_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 41,
+						"w": 82,
+						"h": 49
+					},
+					"frame": {
+						"x": 116,
+						"y": 1609,
+						"w": 82,
+						"h": 49
+					}
+				},
+				{
+					"filename": "dash_b_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 40,
+						"w": 86,
+						"h": 100
+					},
+					"frame": {
+						"x": 133,
+						"y": 1660,
+						"w": 86,
+						"h": 100
+					}
+				},
+				{
+					"filename": "dash_f_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 162,
+						"y": 10,
+						"w": 85,
+						"h": 100
+					},
+					"frame": {
+						"x": 141,
+						"y": 1762,
+						"w": 85,
+						"h": 100
+					}
+				},
+				{
+					"filename": "jump_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 96,
+						"w": 59,
+						"h": 85
+					},
+					"frame": {
+						"x": 175,
+						"y": 1864,
+						"w": 59,
+						"h": 85
+					}
+				},
+				{
+					"filename": "crouching_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 82,
+						"h": 64
+					},
+					"frame": {
+						"x": 142,
+						"y": 1440,
+						"w": 82,
+						"h": 64
+					}
+				},
+				{
+					"filename": "jump_39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 157,
+						"w": 83,
+						"h": 100
+					},
+					"frame": {
+						"x": 189,
+						"y": 1506,
+						"w": 83,
+						"h": 100
+					}
+				},
+				{
+					"filename": "dash_b_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 76,
+						"w": 87,
+						"h": 64
+					},
+					"frame": {
+						"x": 226,
+						"y": 1440,
+						"w": 87,
+						"h": 64
+					}
+				},
+				{
+					"filename": "jump_40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 157,
+						"w": 84,
+						"h": 100
+					},
+					"frame": {
+						"x": 274,
+						"y": 1506,
+						"w": 84,
+						"h": 100
+					}
+				},
+				{
+					"filename": "idle_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 221,
+						"y": 1608,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 221,
+						"y": 1608,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 89,
+						"h": 98
+					},
+					"frame": {
+						"x": 313,
+						"y": 1608,
+						"w": 89,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 89,
+						"h": 98
+					},
+					"frame": {
+						"x": 313,
+						"y": 1608,
+						"w": 89,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_f_45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 125,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 228,
+						"y": 1708,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 86,
+						"h": 98
+					},
+					"frame": {
+						"x": 320,
+						"y": 1708,
+						"w": 86,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 86,
+						"h": 98
+					},
+					"frame": {
+						"x": 320,
+						"y": 1708,
+						"w": 86,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 159,
+						"w": 89,
+						"h": 98
+					},
+					"frame": {
+						"x": 236,
+						"y": 1808,
+						"w": 89,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_f_44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 125,
+						"w": 89,
+						"h": 98
+					},
+					"frame": {
+						"x": 236,
+						"y": 1808,
+						"w": 89,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 158,
+						"w": 86,
+						"h": 99
+					},
+					"frame": {
+						"x": 327,
+						"y": 1808,
+						"w": 86,
+						"h": 99
+					}
+				},
+				{
+					"filename": "jump_b_46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 127,
+						"w": 86,
+						"h": 99
+					},
+					"frame": {
+						"x": 327,
+						"y": 1808,
+						"w": 86,
+						"h": 99
+					}
+				},
+				{
+					"filename": "jump_b_41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 162,
+						"w": 78,
+						"h": 64
+					},
+					"frame": {
+						"x": 315,
+						"y": 1440,
+						"w": 78,
+						"h": 64
+					}
+				},
+				{
+					"filename": "jump_b_44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 126,
+						"w": 83,
+						"h": 100
+					},
+					"frame": {
+						"x": 360,
+						"y": 1506,
+						"w": 83,
+						"h": 100
+					}
+				},
+				{
+					"filename": "walk_f_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 2,
+						"w": 78,
+						"h": 99
+					},
+					"frame": {
+						"x": 445,
+						"y": 1184,
+						"w": 78,
+						"h": 99
+					}
+				},
+				{
+					"filename": "jump_43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 159,
+						"w": 84,
+						"h": 98
+					},
+					"frame": {
+						"x": 404,
+						"y": 1608,
+						"w": 84,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_b_48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 128,
+						"w": 84,
+						"h": 98
+					},
+					"frame": {
+						"x": 404,
+						"y": 1608,
+						"w": 84,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_f_43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 183,
+						"y": 125,
+						"w": 84,
+						"h": 98
+					},
+					"frame": {
+						"x": 404,
+						"y": 1608,
+						"w": 84,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_b_49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 128,
+						"w": 88,
+						"h": 98
+					},
+					"frame": {
+						"x": 408,
+						"y": 1708,
+						"w": 88,
+						"h": 98
+					}
+				},
+				{
+					"filename": "jump_b_45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 126,
+						"w": 84,
+						"h": 100
+					},
+					"frame": {
+						"x": 415,
+						"y": 1808,
+						"w": 84,
+						"h": 100
+					}
+				},
+				{
+					"filename": "jump_f_40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 123,
+						"w": 84,
+						"h": 100
+					},
+					"frame": {
+						"x": 415,
+						"y": 1808,
+						"w": 84,
+						"h": 100
+					}
+				},
+				{
+					"filename": "jump_f_39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 183,
+						"y": 123,
+						"w": 83,
+						"h": 100
+					},
+					"frame": {
+						"x": 54,
+						"y": 1149,
+						"w": 83,
+						"h": 100
+					}
+				},
+				{
+					"filename": "dash_b_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 23,
+						"w": 76,
+						"h": 95
+					},
+					"frame": {
+						"x": 56,
+						"y": 1251,
+						"w": 76,
+						"h": 95
+					}
+				},
+				{
+					"filename": "jump_b_43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 132,
+						"w": 91,
+						"h": 94
+					},
+					"frame": {
+						"x": 139,
+						"y": 1157,
+						"w": 91,
+						"h": 94
+					}
+				},
+				{
+					"filename": "walk_f_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 91,
+						"h": 96
+					},
+					"frame": {
+						"x": 134,
+						"y": 1253,
+						"w": 91,
+						"h": 96
+					}
+				},
+				{
+					"filename": "jump_b_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 46,
+						"w": 90,
+						"h": 79
+					},
+					"frame": {
+						"x": 129,
+						"y": 1351,
+						"w": 90,
+						"h": 79
+					}
+				},
+				{
+					"filename": "jump_38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 163,
+						"w": 90,
+						"h": 94
+					},
+					"frame": {
+						"x": 232,
+						"y": 1160,
+						"w": 90,
+						"h": 94
+					}
+				},
+				{
+					"filename": "jump_f_37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 127,
+						"w": 90,
+						"h": 96
+					},
+					"frame": {
+						"x": 227,
+						"y": 1256,
+						"w": 90,
+						"h": 96
+					}
+				},
+				{
+					"filename": "jump_f_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 47,
+						"w": 90,
+						"h": 73
+					},
+					"frame": {
+						"x": 221,
+						"y": 1354,
+						"w": 90,
+						"h": 73
+					}
+				},
+				{
+					"filename": "jump_37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 169,
+						"w": 90,
+						"h": 88
+					},
+					"frame": {
+						"x": 324,
+						"y": 1184,
+						"w": 90,
+						"h": 88
+					}
+				},
+				{
+					"filename": "jump_b_42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 138,
+						"w": 90,
+						"h": 88
+					},
+					"frame": {
+						"x": 319,
+						"y": 1274,
+						"w": 90,
+						"h": 88
+					}
+				},
+				{
+					"filename": "jump_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 69,
+						"w": 87,
+						"h": 71
+					},
+					"frame": {
+						"x": 313,
+						"y": 1364,
+						"w": 87,
+						"h": 71
+					}
+				},
+				{
+					"filename": "jump_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 68,
+						"w": 87,
+						"h": 71
+					},
+					"frame": {
+						"x": 313,
+						"y": 1364,
+						"w": 87,
+						"h": 71
+					}
+				},
+				{
+					"filename": "jump_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 67,
+						"w": 87,
+						"h": 71
+					},
+					"frame": {
+						"x": 313,
+						"y": 1364,
+						"w": 87,
+						"h": 71
+					}
+				},
+				{
+					"filename": "jump_f_38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 129,
+						"w": 90,
+						"h": 94
+					},
+					"frame": {
+						"x": 411,
+						"y": 1285,
+						"w": 90,
+						"h": 94
+					}
+				},
+				{
+					"filename": "walk_f_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 90,
+						"h": 96
+					},
+					"frame": {
+						"x": 402,
+						"y": 1381,
+						"w": 90,
+						"h": 96
+					}
+				},
+				{
+					"filename": "walk_f_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 0,
+						"w": 71,
+						"h": 100
+					},
+					"frame": {
+						"x": 445,
+						"y": 1479,
+						"w": 71,
+						"h": 100
+					}
+				},
+				{
+					"filename": "walk_f_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 88,
+						"h": 96
+					},
+					"frame": {
+						"x": 494,
+						"y": 1381,
+						"w": 88,
+						"h": 96
+					}
+				},
+				{
+					"filename": "jump_f_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 69,
+						"w": 72,
+						"h": 99
+					},
+					"frame": {
+						"x": 518,
+						"y": 1479,
+						"w": 72,
+						"h": 99
+					}
+				},
+				{
+					"filename": "jump_f_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 63,
+						"w": 72,
+						"h": 99
+					},
+					"frame": {
+						"x": 518,
+						"y": 1479,
+						"w": 72,
+						"h": 99
+					}
+				},
+				{
+					"filename": "dash_b_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 0,
+						"w": 60,
+						"h": 92
+					},
+					"frame": {
+						"x": 503,
+						"y": 1285,
+						"w": 60,
+						"h": 92
+					}
+				},
+				{
+					"filename": "jump_f_41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 124,
+						"w": 86,
+						"h": 99
+					},
+					"frame": {
+						"x": 565,
+						"y": 1270,
+						"w": 86,
+						"h": 99
+					}
+				},
+				{
+					"filename": "walk_f_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 3,
+						"w": 76,
+						"h": 98
+					},
+					"frame": {
+						"x": 584,
+						"y": 1371,
+						"w": 76,
+						"h": 98
+					}
+				},
+				{
+					"filename": "walk_f_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 83,
+						"h": 98
+					},
+					"frame": {
+						"x": 592,
+						"y": 1471,
+						"w": 83,
+						"h": 98
+					}
+				},
+				{
+					"filename": "idle_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 87,
+						"h": 97
+					},
+					"frame": {
+						"x": 662,
+						"y": 1348,
+						"w": 87,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 87,
+						"h": 97
+					},
+					"frame": {
+						"x": 662,
+						"y": 1348,
+						"w": 87,
+						"h": 97
+					}
+				},
+				{
+					"filename": "crouch_end_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 677,
+						"y": 1447,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 677,
+						"y": 1447,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 677,
+						"y": 1447,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 677,
+						"y": 1447,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 87,
+						"h": 97
+					},
+					"frame": {
+						"x": 762,
+						"y": 1435,
+						"w": 87,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 87,
+						"h": 97
+					},
+					"frame": {
+						"x": 762,
+						"y": 1435,
+						"w": 87,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 86,
+						"h": 97
+					},
+					"frame": {
+						"x": 851,
+						"y": 1440,
+						"w": 86,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 86,
+						"h": 97
+					},
+					"frame": {
+						"x": 851,
+						"y": 1440,
+						"w": 86,
+						"h": 97
+					}
+				},
+				{
+					"filename": "dash_b_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 4,
+						"w": 71,
+						"h": 95
+					},
+					"frame": {
+						"x": 939,
+						"y": 1440,
+						"w": 71,
+						"h": 95
+					}
+				},
+				{
+					"filename": "crouch_end_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 84,
+						"h": 97
+					},
+					"frame": {
+						"x": 677,
+						"y": 1546,
+						"w": 84,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 84,
+						"h": 97
+					},
+					"frame": {
+						"x": 677,
+						"y": 1546,
+						"w": 84,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 84,
+						"h": 97
+					},
+					"frame": {
+						"x": 677,
+						"y": 1546,
+						"w": 84,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 85,
+						"h": 97
+					},
+					"frame": {
+						"x": 763,
+						"y": 1534,
+						"w": 85,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 85,
+						"h": 97
+					},
+					"frame": {
+						"x": 763,
+						"y": 1534,
+						"w": 85,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 84,
+						"h": 97
+					},
+					"frame": {
+						"x": 850,
+						"y": 1539,
+						"w": 84,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 84,
+						"h": 97
+					},
+					"frame": {
+						"x": 850,
+						"y": 1539,
+						"w": 84,
+						"h": 97
+					}
+				},
+				{
+					"filename": "walk_f_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 4,
+						"w": 80,
+						"h": 97
+					},
+					"frame": {
+						"x": 936,
+						"y": 1539,
+						"w": 80,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 592,
+						"y": 1571,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 592,
+						"y": 1571,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "crouching_01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 65
+					},
+					"frame": {
+						"x": 677,
+						"y": 1645,
+						"w": 84,
+						"h": 65
+					}
+				},
+				{
+					"filename": "idle_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 84,
+						"h": 97
+					},
+					"frame": {
+						"x": 763,
+						"y": 1633,
+						"w": 84,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 84,
+						"h": 97
+					},
+					"frame": {
+						"x": 763,
+						"y": 1633,
+						"w": 84,
+						"h": 97
+					}
+				},
+				{
+					"filename": "dash_b_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 52,
+						"w": 87,
+						"h": 88
+					},
+					"frame": {
+						"x": 849,
+						"y": 1638,
+						"w": 87,
+						"h": 88
+					}
+				},
+				{
+					"filename": "jump_b_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 45,
+						"w": 74,
+						"h": 79
+					},
+					"frame": {
+						"x": 938,
+						"y": 1638,
+						"w": 74,
+						"h": 79
+					}
+				},
+				{
+					"filename": "jump_b_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 41,
+						"w": 74,
+						"h": 79
+					},
+					"frame": {
+						"x": 938,
+						"y": 1638,
+						"w": 74,
+						"h": 79
+					}
+				},
+				{
+					"filename": "idle_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 490,
+						"y": 1581,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 490,
+						"y": 1581,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 498,
+						"y": 1680,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 583,
+						"y": 1670,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 501,
+						"y": 1779,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 586,
+						"y": 1769,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 671,
+						"y": 1712,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "dash_f_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 247,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 22,
+						"w": 87,
+						"h": 88
+					},
+					"frame": {
+						"x": 756,
+						"y": 1732,
+						"w": 87,
+						"h": 88
+					}
+				},
+				{
+					"filename": "crouch_start_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 30,
+						"w": 83,
+						"h": 67
+					},
+					"frame": {
+						"x": 671,
+						"y": 1811,
+						"w": 83,
+						"h": 67
+					}
+				},
+				{
+					"filename": "dash_b_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 164,
+						"y": 52,
+						"w": 86,
+						"h": 88
+					},
+					"frame": {
+						"x": 756,
+						"y": 1822,
+						"w": 86,
+						"h": 88
+					}
+				},
+				{
+					"filename": "crouch_start_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 30,
+						"w": 83,
+						"h": 67
+					},
+					"frame": {
+						"x": 501,
+						"y": 1878,
+						"w": 83,
+						"h": 67
+					}
+				},
+				{
+					"filename": "jump_f_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 54,
+						"w": 83,
+						"h": 70
+					},
+					"frame": {
+						"x": 586,
+						"y": 1868,
+						"w": 83,
+						"h": 70
+					}
+				},
+				{
+					"filename": "jump_f_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 50,
+						"w": 83,
+						"h": 70
+					},
+					"frame": {
+						"x": 586,
+						"y": 1868,
+						"w": 83,
+						"h": 70
+					}
+				},
+				{
+					"filename": "crouching_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 65
+					},
+					"frame": {
+						"x": 671,
+						"y": 1880,
+						"w": 83,
+						"h": 65
+					}
+				},
+				{
+					"filename": "idle_52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 845,
+						"y": 1732,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "idle_53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 83,
+						"h": 97
+					},
+					"frame": {
+						"x": 844,
+						"y": 1831,
+						"w": 83,
+						"h": 97
+					}
+				},
+				{
+					"filename": "jump_b_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 56,
+						"w": 61,
+						"h": 85
+					},
+					"frame": {
+						"x": 930,
+						"y": 1728,
+						"w": 61,
+						"h": 85
+					}
+				},
+				{
+					"filename": "jump_b_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 51,
+						"w": 61,
+						"h": 85
+					},
+					"frame": {
+						"x": 930,
+						"y": 1728,
+						"w": 61,
+						"h": 85
+					}
+				},
+				{
+					"filename": "crouching_03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 65
+					},
+					"frame": {
+						"x": 810,
+						"y": 491,
+						"w": 84,
+						"h": 65
+					}
+				},
+				{
+					"filename": "crouching_04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 65
+					},
+					"frame": {
+						"x": 896,
+						"y": 510,
+						"w": 84,
+						"h": 65
+					}
+				},
+				{
+					"filename": "jump_f_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 275,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 17,
+						"w": 84,
+						"h": 71
+					},
+					"frame": {
+						"x": 806,
+						"y": 558,
+						"w": 84,
+						"h": 71
+					}
+				},
+				{
+					"filename": "crouching_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 65
+					},
+					"frame": {
+						"x": 892,
+						"y": 577,
+						"w": 83,
+						"h": 65
+					}
+				},
+				{
+					"filename": "dash_b_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 74,
+						"w": 83,
+						"h": 66
+					},
+					"frame": {
+						"x": 876,
+						"y": 644,
+						"w": 83,
+						"h": 66
+					}
+				},
+				{
+					"filename": "crouching_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 84,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 65
+					},
+					"frame": {
+						"x": 878,
+						"y": 712,
+						"w": 82,
+						"h": 65
+					}
+				},
+				{
+					"filename": "jump_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 88,
+						"w": 67,
+						"h": 79
+					},
+					"frame": {
+						"x": 879,
+						"y": 779,
+						"w": 67,
+						"h": 79
+					}
+				},
+				{
+					"filename": "jump_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 92,
+						"w": 76,
+						"h": 70
+					},
+					"frame": {
+						"x": 879,
+						"y": 860,
+						"w": 76,
+						"h": 70
+					}
+				},
+				{
+					"filename": "dash_b_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 1,
+						"w": 65,
+						"h": 75
+					},
+					"frame": {
+						"x": 948,
+						"y": 779,
+						"w": 65,
+						"h": 75
+					}
+				},
+				{
+					"filename": "dash_b_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 1,
+						"w": 65,
+						"h": 75
+					},
+					"frame": {
+						"x": 948,
+						"y": 779,
+						"w": 65,
+						"h": 75
+					}
+				},
+				{
+					"filename": "dash_b_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 4,
+						"w": 64,
+						"h": 72
+					},
+					"frame": {
+						"x": 930,
+						"y": 1815,
+						"w": 64,
+						"h": 72
+					}
+				},
+				{
+					"filename": "dash_b_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 6,
+						"w": 64,
+						"h": 72
+					},
+					"frame": {
+						"x": 930,
+						"y": 1815,
+						"w": 64,
+						"h": 72
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:60c7a4fc6fd5df4e3323d3bbb25cafe5:9520cec8bb1c1bd76d84f5ea24595b69:cf8fd13d124db2bc4a2df7e7c0b94c47$"
+	}
+}
