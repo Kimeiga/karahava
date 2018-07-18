@@ -121,49 +121,107 @@ function create ()
 			start: 0, end: 44, zeroPad: 2,
 			prefix: 'jump_', suffix: '.png'
 		}),
-		frameRate: 20,
-		repeat: -1
+		frameRate: 20
 	});
 	
 }
 
 var airAnimation = 'idle';
+var jumping = false;
 
 
 function update ()
 {
 
-
 	if(ibuki.body.touching.down){
-		if (lp_left.isDown){
-			ibuki.anims.play('walk_b', true);
-			ibuki.setVelocityX(-100);
+		
+		if(lp_jump.isDown) {
 			
-			if(lp_right.isDown){
-				ibuki.anims.play('crouching', true);
-				ibuki.setVelocityX(0);
+			//regular jump
+			if(!lp_right.isDown && !lp_left.isDown){
+				ibuki.setVelocityY(-70);
+				// airAnimation = 'jump';
+				ibuki.anims.play('jump', true);
+				ibuki.on('animationcomplete', onCompleteJump, this);
+				//lock her into this animation until we fall back down
 			}
+			//left jump
+			if(lp_left.isDown && !lp_right.isDown) {
+				ibuki.setVelocityY(-70);
+				// airAnimation = 'jump';
+				ibuki.anims.play('jump', true);
+				ibuki.on('animationcomplete', onCompleteJump, this);
+				//lock her into this animation until we fall back down
+			}
+			//right jump
+			if(lp_right.isDown && !lp_left.isDown) {
+				ibuki.setVelocityY(-70);
+				// airAnimation = 'jump';
+				ibuki.anims.play('jump', true);
+				ibuki.on('animationcomplete', onCompleteJump, this);
+				//lock her into this animation until we fall back down
+			}
+			//duck (super) jump
+			if(lp_right.isDown && lp_left.isDown){
+				ibuki.setVelocityY(-130);
+				// airAnimation = 'jump';
+				ibuki.anims.play('jump', true);
+				ibuki.on('animationcomplete', onCompleteJump, this);
+				//lock her into this animation until we fall back down
+			}
+
+			jumping = true;
+
 		}
-		else if (lp_right.isDown) {
+
+		if (lp_left.isDown && !lp_right.isDown){
+			ibuki.anims.play('walk_b', true);
+			// playWhenFinished('walk_b');
+			ibuki.setVelocityX(-100);
+		}
+		if (lp_right.isDown && !lp_left.isDown && !jumping) {
 			ibuki.anims.play('walk_f', true);
+			// playWhenFinished('walk_f');
 			ibuki.setVelocityX(+100);
 		}
-		else if (lp_jump.isDown && ibuki.body.touching.down){
-			ibuki.setVelocityY(-100);
-			airAnimation = 'jump';
-			ibuki.anims.play('jump', true);
-			//lock her into this animation until we fall back down
-		}
-		else {
-			ibuki.anims.play('idle', true);
+		if(lp_left.isDown && lp_right.isDown && !jumping) {
+			ibuki.anims.play('crouching', true);
+			// playWhenFinished('crouching');
 			ibuki.setVelocityX(0);
+		}
+		if(!lp_left.isDown && !lp_right.isDown && !jumping) {
+			ibuki.anims.play('idle', true);
+			// playWhenFinished('idle');
+			ibuki.setVelocityX(0);
+			console.log('wer')
 		}
 		
 	}
 	else{
 		//if not grounded, play animation that corresponds to ibuki's state in the air
-		ibuki.anims.play(airAnimation, true);
+		if(jumping)
+			ibuki.anims.play('jump', true);
 	}
 
 	
+}
+
+function onCompleteJump() {
+	jumping = false;
+}
+
+// sprite.animations.play("anim1", 30, false);
+
+function playWhenFinished(name) {
+	// is this sprite currently animating?  
+	if (ibuki.anims.isPlaying) {    
+		// yes, so play the next animation when this one has finished   
+		ibuki.on('animationcomplete', function() { ibuki.anims.play(this.name) }, this);
+		// ibuki.anims.onComplete.addOnce(function() {      
+		// 	ibuki.anims.play(name);    
+		// }, this);  
+	} else {  
+		// no, so play the next animation now   
+		ibuki.anims.play(name, true);    
+	}
 }
