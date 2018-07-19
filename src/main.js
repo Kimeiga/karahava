@@ -176,7 +176,7 @@ function update ()
 	
 	if(lp_left.onDown){
 		
-		if(this.time.totalElapsedTime - lp_leftPrev <= dashThres){}
+		if(this.time.totalElapsedTime - lp_leftPrev <= dashThres){
 			dashState = DashEnum.LEFT;
 		}
 		lp_leftPrev = this.time.totalElapsedTime;
