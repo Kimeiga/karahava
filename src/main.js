@@ -71,6 +71,9 @@ function create ()
 
 	ibuki.setBounce(0);
 	ibuki.setCollideWorldBounds(true);
+
+	player.body.setGravityY(300);
+
 	this.physics.add.collider(ibuki, platforms);
 
 	ibuki.setScale(2, 2);
@@ -139,7 +142,7 @@ function update ()
 			
 			//regular jump
 			if(!lp_right.isDown && !lp_left.isDown){
-				ibuki.setVelocityY(-70);
+				ibuki.setVelocityY(-100);
 				// airAnimation = 'jump';
 				ibuki.anims.play('jump', true);
 				ibuki.on('animationcomplete', onCompleteJump, this);
@@ -147,9 +150,10 @@ function update ()
 			}
 			//left jump
 			if(lp_left.isDown && !lp_right.isDown) {
-				ibuki.setVelocityY(-70);
+				ibuki.setVelocityY(-100);
 				// airAnimation = 'jump';
 				ibuki.anims.play('jump', true);
+				// ibuki.setVelocityX(-100);
 				ibuki.on('animationcomplete', onCompleteJump, this);
 				//lock her into this animation until we fall back down
 			}
