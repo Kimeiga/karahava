@@ -12,7 +12,7 @@ var config = {
         default: 'arcade',
         arcade: {
             gravity: { y: 300 },
-            debug: false
+            debug: true
         }
     },
     scene: {
@@ -26,7 +26,8 @@ var game = new Phaser.Game(config);
 
 function preload ()
 {
-    this.load.multiatlas('ibuki', 'sprites/ibuki_3.json', 'sprites');
+	this.load.multiatlas('ibuki', 'sprites/characters/ibuki_3.json', 'sprites/characters');
+	this.load.image('ground', 'sprites/platform.png');
 }
 
 var ibuki;
@@ -48,7 +49,7 @@ var rp_taunt;
 
 //physics
 var grounded;
-var groundHeight;
+var groundHeight = 868;
 
 function create ()
 {
@@ -58,7 +59,7 @@ function create ()
 	
     //  The platforms group contains the ground and the 2 ledges we can jump on
 	platforms = this.physics.add.staticGroup();
-	platforms.create(600, 868, 'ground').setScale(3).refreshBody();
+	platforms.create(600, groundHeight, 'ground').setScale(3).refreshBody();
 
 	//we will use arcade physics to move the sprite because it is easy and it will make the jumping, getting hit in the air, etc physics easier
 
@@ -68,7 +69,7 @@ function create ()
 	ibuki.setBounce(0);
 	ibuki.setCollideWorldBounds(true);
 
-	player.body.setGravityY(300);
+	ibuki.body.setGravityY(300);
 
 	this.physics.add.collider(ibuki, platforms);
 
@@ -156,9 +157,11 @@ function create ()
 	var lp_leftPrev = 0;
 	var lp_rightPrev = 0;
 	var dashThres = 0.3;
+	var prevAnim = 'idle';
 
 function update ()
 {
+	
 	grounded = ibuki.y <= groundHeight;
 	
 	if(ibuki.anims.currentAnim != null){
@@ -237,5 +240,6 @@ function update ()
 		//dont allow additional input
 		ibuki.anims.play(prevAnim, true);
 	}
+	
 	
 }
